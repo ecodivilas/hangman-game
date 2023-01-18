@@ -8,4 +8,4 @@ words = [
          "rhythm","beat","tempo","tuning","pedal","conductor","orchestra",
          "band","DJ","producer","audio","recorder","mixer","equalizer",
          "compressor","reverb","delay","studio","sound","engineer",
-         "headphones","speakers","amp","effects"]
+         "headphones","speakers","amp","effects","riffle", "dumbbell"]
